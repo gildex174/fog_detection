@@ -2,4 +2,4 @@
 ## SCC5977 - Aprendizado de Máquina para Séries Temporais 
 
 
-Youtube: 
+Youtube: https://youtu.be/rRT7EPvUNNc
